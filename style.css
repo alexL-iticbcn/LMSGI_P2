@@ -1,0 +1,67 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: black;
+    margin: auto;
+    text-align: center;
+    color: gold;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+
+.lmsgi{
+    background-color: lightpink;
+}
+
+.bd{
+    background-color: bisque;
+}
+
+.ped{
+    background-color: cadetblue;
+}
+
+.si{
+    background-color: yellow;
+}
+
+.tut{
+    background-color: dodgerblue;
+}
+
+.diw{
+    background-color: salmon;
+}
+
+.an{
+    background-color: gold;
+}
+
+.ipoi{
+    background-color: crimson;
+}
+
+#descans{
+    font-size: 20px;
+    padding: 15px;
+}
+
+.hora{
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.capcelera th{
+    background-color: lightgreen;
+    padding: 30px;
+    font-size: 25px;
+
+}
